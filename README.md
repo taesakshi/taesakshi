@@ -2,6 +2,7 @@
   <a href="https://rishavchanda.io">
     <img src="https://img.freepik.com/premium-vector/programming-typographic-header-students-learn-computer-science_277904-15137.jpg" alt="MasterHead">
   </a>
+</div>
 <h1 align="center">Hi 👋, I'm Sakshi Sharma</h1>
 <h3 align="center">A passionate Machine Learning enthusiast from India</h3>
 <img align="right" alt="Coding" width = "400" src="https://img.freepik.com/premium-vector/asian-woman-working-laptop-woman-it-developer-programming-code-freelance-remote-working_254685-2375.jpg">
