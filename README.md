@@ -6,9 +6,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=taesakshi&label=Profile%20views&color=0e75b6&style=flat" alt="taesakshi" /> </p>
 
-- 🔭 I’m currently working on **Book Recommendation System**
+- 🔭 I’m currently working on **E-Commerce Website**
 
-- 🌱 I’m currently learning **Machine Learning**
+- 🌱 I’m currently learning **React**
 
 - 📝 I regularly write articles on [https://medium.com/@sakshi.2002.ms](https://medium.com/@sakshi.2002.ms)
 
