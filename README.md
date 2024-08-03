@@ -16,7 +16,7 @@
 
 - 📝 I regularly write articles on [https://medium.com/@sakshi.2002.ms](https://medium.com/@sakshi.2002.ms)
 
-- 💬 Ask me about **Web Development, Machine Learning**
+- 💬 See my portfolio here **https://taesakshi.github.io/Portfolio-Website/**
 
 - 📫 How to reach me **sakshi.2002.ms@gmail.com**
 
